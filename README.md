@@ -1,7 +1,7 @@
-# To excute: 
+# To execute: 
 `locust --host=https://swapi.co/ --locustfile=locustfile.py`
 
-#Info about api to test:  
+# Info about api to test:  
 https://swapi.co/documentation
 
 
