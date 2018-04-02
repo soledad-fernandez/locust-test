@@ -1,0 +1,11 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","//",475,0,210,306,169,1215,7816,2.00
+"GET","//api/films/",231,0,530,622,333,1525,19756,0.97
+"GET","//api/people",220,0,640,763,466,1851,5868,0.93
+"GET","//api/people/12",229,0,530,644,367,1687,476,0.97
+"GET","//api/people/?search=r2",199,0,240,336,205,862,667,0.84
+"GET","//api/planets",217,0,510,641,400,1863,5039,0.92
+"GET","//api/planets/14/",237,0,230,332,190,941,460,1.00
+"GET","//api/species/",213,0,320,416,243,1089,5174,0.90
+"GET","//api/starships",252,0,550,662,410,1732,6025,1.06
+"None","Total",2273,0,470,503,169,1863,5997,9.59
