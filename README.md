@@ -11,3 +11,5 @@ https://swapi.co/documentation
 Number of users to simulate: 100
 Hatch rate (users spawned/second): 10
 - Download data files
+
+![Stadtistics](/locust_file_statistics.png?raw=true "Losust statistics")
